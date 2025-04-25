@@ -25,15 +25,18 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canoa0327&layout=compact" />
+</div>
 
 <div>
   <h2>Contact</h2>
-  <img src="https://img.shields.io/badge/canoa950327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/canoa950327@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   <a href="https://canoa.site">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
   </a>
 </div>
-
   
   
 
