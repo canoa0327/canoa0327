@@ -1,5 +1,9 @@
-👋 Hi, I'm canoa!   
-
+<div> 
+    <h2> BaekSeongKon </h2>  
+    <div> 
+      <li> 사용자에게 가치 있는 서비스를 제공하려 노력합니다.</li>
+      <li> 기술적 성장과 전문성을 지속적으로 추구합니다. </div> 
+    </div>
 <div>
   <h2>My Skills</h2>
   <p>🖥️ Frontend</p>
@@ -9,8 +13,8 @@
 <br>
 <div>
   <p>🛠️ Backend</p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp
 </div>
 <br>
 <div>
@@ -26,9 +30,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 <br>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canoa0327&layout=compact" />
-</div>
 
 <div>
   <h2>Contact</h2>
